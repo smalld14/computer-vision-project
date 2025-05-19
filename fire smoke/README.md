@@ -5,7 +5,8 @@
 
 ## DEMO
 
-![模型展示](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/Work%20accident%20%20CNC%20machine%20catches%20fire720p%201%2C%20WEFIRE.gif)(https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/DosHermanasSevilleSpainJune22022-ezgif.com-video-to-gif-converter.gif)
+![展示](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/Work%20accident%20%20CNC%20machine%20catches%20fire720p%201%2C%20WEFIRE.gif)
+![展示](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/DosHermanasSevilleSpainJune22022-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
