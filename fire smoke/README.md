@@ -6,7 +6,7 @@
 
 ## 結果
 
-![模型展示]([Work accident CNC machine catches fire720p 1, WEFIRE.gif](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/Work%20accident%20%20CNC%20machine%20catches%20fire720p%201%2C%20WEFIRE.gif))
+![模型展示](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/Work%20accident%20%20CNC%20machine%20catches%20fire720p%201%2C%20WEFIRE.gif)
 
 ---
 
