@@ -1,12 +1,11 @@
 # 火災與煙霧辨識
 
-本資料夾包含本專案的模型成果影片及訓練說明。
-
+使用 YOLOv5 pre-trained model 進行 fine-tune ，實作火災煙霧辨識
 ---
 
-## 結果
+## DEMO
 
-![模型展示](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/Work%20accident%20%20CNC%20machine%20catches%20fire720p%201%2C%20WEFIRE.gif)
+![模型展示](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/Work%20accident%20%20CNC%20machine%20catches%20fire720p%201%2C%20WEFIRE.gif)(https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/video/DosHermanasSevilleSpainJune22022-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
