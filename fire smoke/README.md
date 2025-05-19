@@ -16,4 +16,4 @@
 ![image](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/asset/results.png)
 - 
 - **超參數優化**：
- ![image]([https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/asset/results.png](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/asset/evolve.png))
+ ![image](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/asset/evolve.png)
