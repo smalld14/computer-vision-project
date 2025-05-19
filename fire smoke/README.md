@@ -6,7 +6,7 @@
 
 ## 結果
 
-![模型展示](fire_smoke_demo.gif)
+![模型展示](Work accident CNC machine catches fire720p 1, WEFIRE.gif)
 
 ---
 
