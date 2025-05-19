@@ -14,6 +14,6 @@
 - 收集工廠產線內火災煙霧的影像，並使用多種資料擴增的方式生成大量、多樣化的資料。
 - **Evaluation**：
 ![image](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/asset/results.png)
-- 
+ 
 - **超參數優化**：
  ![image](https://github.com/smalld14/computer-vision-project/blob/main/fire%20smoke/asset/evolve.png)
